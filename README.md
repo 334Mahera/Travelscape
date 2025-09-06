@@ -1,2 +1,2 @@
 # Travelscape
-Travelscape is a web-based travel booking system that combines modern web technologies to provide an end-to-end solution. It offers responsive design with HTML/CSS, dynamic interactivity with JavaScript, secure server-side processing using PHP, and reliable data storage through MySQL.
+Travelscape is a full-stack web application designed to streamline travel booking. The project integrates frontend and backend technologies, including HTML, CSS, JavaScript, PHP, and MySQL, to deliver a functional and user-friendly platform. The system allows users to browse travel options, make bookings, and store data securely, ensuring both efficiency and scalability.
